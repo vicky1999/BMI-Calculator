@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     }
-
+    //Button onclick 
     public void onSubmit(View view) {
         EditText heightBox=(EditText)findViewById(R.id.height);
         EditText weightBox=(EditText)findViewById(R.id.weight);
